@@ -1,6 +1,6 @@
 # PlayLab — Playwright Automation Tests
 
-A portfolio project demonstrating UI test automation using **Playwright, TypeScript, and Node.js**.
+A portfolio project demonstrating UI test automation using Playwright, TypeScript, and Node.js
 
 ## Test Coverage
 
